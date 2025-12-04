@@ -72,12 +72,4 @@ Currently learning to touch grass 🌲
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-</p>  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hannes-Schuck&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&bg_color=0d1117" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannes-Schuck&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&hide_border=true" />
 </p>
